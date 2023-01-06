@@ -8,6 +8,7 @@ import {
   Header,
 } from './containers';
 import { Brand, Cta, Navbar } from './components';
+import './App.css';
 
 function App() {
   return (
